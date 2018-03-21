@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 int main(){
-	printf("dobroe utro");
+	printf("dobroe utro");//cdil.dhsgfsdjkgf
 }
